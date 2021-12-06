@@ -1,0 +1,321 @@
+2021-12-06 08:13:51  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 08:13:51  [ main:5 ] - [ INFO ]  Init >> Start
+2021-12-06 08:13:51  [ main:5 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 08:13:51  [ main:83 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 08:13:51  [ main:101 ] - [ INFO ]  Init >> End
+2021-12-06 08:22:05  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 08:22:05  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 08:22:05  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 08:22:05  [ main:87 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 08:22:05  [ main:106 ] - [ INFO ]  Init >> End
+2021-12-06 08:22:32  [ JavaFX Application Thread:26322 ] - [ DEBUG ]  Shutdown >> Start
+2021-12-06 08:22:32  [ JavaFX Application Thread:26326 ] - [ DEBUG ]  Shutdown >> End
+2021-12-06 08:22:32  [ JavaFX Application Thread:26327 ] - [ DEBUG ]  End Application...
+2021-12-06 08:22:57  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 08:22:57  [ main:3 ] - [ INFO ]  Init >> Start
+2021-12-06 08:22:57  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 08:22:57  [ main:75 ] - [ DEBUG ]  FileSystem: Use Reflect to Create the instance of Data Class >> ApplicationConfig_Data
+2021-12-06 08:22:57  [ main:82 ] - [ DEBUG ]  FileSystem: Start to Write Default ConfigFile Data >> ApplicationConfig.json
+2021-12-06 08:22:57  [ main:84 ] - [ DEBUG ]  FileSystem: Save Memory Data to Local File >> ApplicationConfig.json
+2021-12-06 08:22:57  [ main:102 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 08:22:57  [ main:108 ] - [ INFO ]  Init >> End
+2021-12-06 08:23:07  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 08:23:07  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 08:23:07  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 08:23:07  [ main:81 ] - [ DEBUG ]  FileSystem: Use Reflect to Create the instance of Data Class >> ApplicationConfig_Data
+2021-12-06 08:23:07  [ main:85 ] - [ DEBUG ]  FileSystem: Start to Write Default ConfigFile Data >> ApplicationConfig.json
+2021-12-06 08:23:07  [ main:87 ] - [ DEBUG ]  FileSystem: Save Memory Data to Local File >> ApplicationConfig.json
+2021-12-06 08:23:07  [ main:103 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 08:23:07  [ main:110 ] - [ INFO ]  Init >> End
+2021-12-06 08:24:26  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 08:24:26  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 08:24:26  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 08:24:26  [ main:72 ] - [ DEBUG ]  FileSystem: Use Reflect to Create the instance of Data Class >> ApplicationConfig_Data
+2021-12-06 08:24:26  [ main:77 ] - [ DEBUG ]  FileSystem: Start to Write Default ConfigFile Data >> ApplicationConfig.json
+2021-12-06 08:24:26  [ main:78 ] - [ DEBUG ]  FileSystem: Save Memory Data to Local File >> ApplicationConfig.json
+2021-12-06 08:24:26  [ main:96 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 08:24:26  [ main:101 ] - [ INFO ]  Init >> End
+2021-12-06 08:25:15  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 08:25:15  [ main:3 ] - [ INFO ]  Init >> Start
+2021-12-06 08:25:15  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 08:25:15  [ main:75 ] - [ DEBUG ]  FileSystem: Use Reflect to Create the instance of Data Class >> ApplicationConfig_Data
+2021-12-06 08:25:15  [ main:80 ] - [ DEBUG ]  FileSystem: Start to Write Default ConfigFile Data >> ApplicationConfig.json
+2021-12-06 08:25:15  [ main:83 ] - [ DEBUG ]  FileSystem: Save Memory Data to Local File >> ApplicationConfig.json
+2021-12-06 08:25:15  [ main:98 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 08:25:15  [ main:102 ] - [ INFO ]  Init >> End
+2021-12-06 08:26:53  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 08:26:53  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 08:26:53  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 08:26:53  [ main:74 ] - [ DEBUG ]  FileSystem: Use Reflect to Create the instance of Data Class >> ApplicationConfig_Data
+2021-12-06 08:26:53  [ main:79 ] - [ DEBUG ]  FileSystem: Start to Write Default ConfigFile Data >> ApplicationConfig.json
+2021-12-06 08:26:53  [ main:81 ] - [ DEBUG ]  FileSystem: Save Memory Data to Local File >> ApplicationConfig.json
+2021-12-06 08:26:53  [ main:96 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 08:26:53  [ main:101 ] - [ INFO ]  Init >> End
+2021-12-06 08:27:33  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 08:27:33  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 08:27:33  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 08:27:33  [ main:73 ] - [ DEBUG ]  FileSystem: Use Reflect to Create the instance of Data Class >> ApplicationConfig_Data
+2021-12-06 08:27:33  [ main:78 ] - [ DEBUG ]  FileSystem: Start to Write Default ConfigFile Data >> ApplicationConfig.json
+2021-12-06 08:27:33  [ main:81 ] - [ DEBUG ]  FileSystem: Save Memory Data to Local File >> ApplicationConfig.json
+2021-12-06 08:27:33  [ main:98 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 08:27:33  [ main:104 ] - [ INFO ]  Init >> End
+2021-12-06 08:29:05  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 08:29:05  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 08:29:05  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 08:29:06  [ main:78 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 08:29:06  [ main:93 ] - [ INFO ]  Init >> End
+2021-12-06 08:29:44  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 08:29:44  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 08:29:44  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 08:29:44  [ main:75 ] - [ DEBUG ]  FileSystem: Use Reflect to Create the instance of Data Class >> ApplicationConfig_Data
+2021-12-06 08:29:44  [ main:79 ] - [ DEBUG ]  FileSystem: Start to Write Default ConfigFile Data >> ApplicationConfig.json
+2021-12-06 08:29:44  [ main:82 ] - [ DEBUG ]  FileSystem: Save Memory Data to Local File >> ApplicationConfig.json
+2021-12-06 08:29:44  [ main:101 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 08:29:44  [ main:108 ] - [ INFO ]  Init >> End
+2021-12-06 08:31:07  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 08:31:07  [ main:3 ] - [ INFO ]  Init >> Start
+2021-12-06 08:31:07  [ main:4 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 08:31:07  [ main:79 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 08:31:07  [ main:97 ] - [ INFO ]  Init >> End
+2021-12-06 09:05:00  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:05:00  [ main:3 ] - [ INFO ]  Init >> Start
+2021-12-06 09:05:00  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:05:00  [ main:76 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:05:00  [ main:95 ] - [ INFO ]  Init >> End
+2021-12-06 09:06:58  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:06:58  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 09:06:58  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:06:58  [ main:80 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:06:58  [ main:99 ] - [ INFO ]  Init >> End
+2021-12-06 09:07:06  [ JavaFX Application Thread:8148 ] - [ DEBUG ]  Shutdown >> Start
+2021-12-06 09:07:06  [ JavaFX Application Thread:8149 ] - [ DEBUG ]  Shutdown >> End
+2021-12-06 09:07:06  [ JavaFX Application Thread:8149 ] - [ DEBUG ]  End Application...
+2021-12-06 09:30:33  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:30:33  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 09:30:33  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:30:33  [ main:105 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:30:33  [ main:119 ] - [ INFO ]  Init >> End
+2021-12-06 09:30:59  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:30:59  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 09:30:59  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:30:59  [ main:70 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:30:59  [ main:84 ] - [ INFO ]  Init >> End
+2021-12-06 09:31:00  [ JavaFX Application Thread:801 ] - [ DEBUG ]  Registering MainController
+2021-12-06 09:33:13  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:33:13  [ main:3 ] - [ INFO ]  Init >> Start
+2021-12-06 09:33:13  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:33:13  [ main:70 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:33:13  [ main:87 ] - [ INFO ]  Init >> End
+2021-12-06 09:33:14  [ JavaFX Application Thread:803 ] - [ DEBUG ]  Registering MainController
+2021-12-06 09:33:24  [ JavaFX Application Thread:10907 ] - [ DEBUG ]  Unregistering MainController
+2021-12-06 09:33:26  [ JavaFX Application Thread:12665 ] - [ DEBUG ]  Shutdown >> Start
+2021-12-06 09:33:26  [ JavaFX Application Thread:12666 ] - [ DEBUG ]  Shutdown >> End
+2021-12-06 09:33:26  [ JavaFX Application Thread:12666 ] - [ DEBUG ]  End Application...
+2021-12-06 09:34:06  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:34:06  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 09:34:06  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:34:06  [ main:73 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:34:06  [ main:90 ] - [ INFO ]  Init >> End
+2021-12-06 09:34:06  [ JavaFX Application Thread:821 ] - [ DEBUG ]  Registering MainController
+2021-12-06 09:35:58  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:35:58  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 09:35:58  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:35:58  [ main:72 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:35:58  [ main:88 ] - [ INFO ]  Init >> End
+2021-12-06 09:35:58  [ JavaFX Application Thread:840 ] - [ DEBUG ]  Registering MainController
+2021-12-06 09:38:37  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:38:37  [ main:3 ] - [ INFO ]  Init >> Start
+2021-12-06 09:38:37  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:38:37  [ main:72 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:38:37  [ main:86 ] - [ INFO ]  Init >> End
+2021-12-06 09:38:38  [ JavaFX Application Thread:818 ] - [ DEBUG ]  Registering MainController
+2021-12-06 09:38:38  [ JavaFX Application Thread:1067 ] - [ DEBUG ]  class name null 
+2021-12-06 09:39:31  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:39:31  [ main:3 ] - [ INFO ]  Init >> Start
+2021-12-06 09:39:31  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:39:31  [ main:73 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:39:31  [ main:88 ] - [ INFO ]  Init >> End
+2021-12-06 09:39:31  [ JavaFX Application Thread:809 ] - [ DEBUG ]  Registering MainController
+2021-12-06 09:39:32  [ JavaFX Application Thread:1065 ] - [ DEBUG ]  equals instance
+2021-12-06 09:39:38  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:39:38  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 09:39:38  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:39:39  [ main:75 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:39:39  [ main:91 ] - [ INFO ]  Init >> End
+2021-12-06 09:39:39  [ JavaFX Application Thread:812 ] - [ DEBUG ]  Registering MainController
+2021-12-06 09:39:40  [ JavaFX Application Thread:1075 ] - [ DEBUG ]  equals instance false
+2021-12-06 09:41:34  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:41:34  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 09:41:34  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:41:34  [ main:69 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:41:34  [ main:84 ] - [ INFO ]  Init >> End
+2021-12-06 09:41:34  [ JavaFX Application Thread:792 ] - [ DEBUG ]  Registering MainController
+2021-12-06 09:41:35  [ JavaFX Application Thread:1046 ] - [ DEBUG ]  equals instance true
+2021-12-06 09:41:35  [ JavaFX Application Thread:1046 ] - [ DEBUG ]  hash: 1893951520 and 1893951520
+2021-12-06 09:45:56  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:45:56  [ main:3 ] - [ INFO ]  Init >> Start
+2021-12-06 09:45:56  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:45:56  [ main:71 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:45:56  [ main:86 ] - [ INFO ]  Init >> End
+2021-12-06 09:46:57  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:46:57  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 09:46:57  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:46:57  [ main:69 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:46:57  [ main:85 ] - [ INFO ]  Init >> End
+2021-12-06 09:46:58  [ JavaFX Application Thread:812 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@2d8ae6af, stage javafx.stage.Stage@44f8b5bc
+2021-12-06 09:46:58  [ JavaFX Application Thread:813 ] - [ DEBUG ]  Registering MainController
+2021-12-06 09:46:58  [ JavaFX Application Thread:1084 ] - [ DEBUG ]  equals instance true
+2021-12-06 09:46:58  [ JavaFX Application Thread:1084 ] - [ DEBUG ]  hash: 545714121 and 545714121
+2021-12-06 09:50:29  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:50:29  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 09:50:29  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:50:29  [ main:71 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:50:29  [ main:88 ] - [ INFO ]  Init >> End
+2021-12-06 09:50:29  [ JavaFX Application Thread:815 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@399ca4c9, stage javafx.stage.Stage@2d9c9fd8
+2021-12-06 09:50:29  [ JavaFX Application Thread:816 ] - [ DEBUG ]  Registering MainController
+2021-12-06 09:50:32  [ JavaFX Application Thread:3627 ] - [ DEBUG ]  Unregistering MainController
+2021-12-06 09:50:38  [ JavaFX Application Thread:8947 ] - [ DEBUG ]  Unregistering MainController
+2021-12-06 09:50:38  [ JavaFX Application Thread:9804 ] - [ DEBUG ]  Shutdown >> Start
+2021-12-06 09:50:38  [ JavaFX Application Thread:9805 ] - [ DEBUG ]  Shutdown >> End
+2021-12-06 09:50:38  [ JavaFX Application Thread:9805 ] - [ DEBUG ]  End Application...
+2021-12-06 09:54:33  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:54:33  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 09:54:33  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:54:33  [ main:77 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:54:33  [ main:92 ] - [ INFO ]  Init >> End
+2021-12-06 09:54:34  [ JavaFX Application Thread:809 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@77e8700c, stage javafx.stage.Stage@4a7dbb46
+2021-12-06 09:54:34  [ JavaFX Application Thread:810 ] - [ DEBUG ]  Registering MainController
+2021-12-06 09:54:39  [ JavaFX Application Thread:5810 ] - [ DEBUG ]  Unregistering MainController
+2021-12-06 09:54:46  [ JavaFX Application Thread:12748 ] - [ DEBUG ]  Unregistering MainController
+2021-12-06 09:54:47  [ JavaFX Application Thread:14218 ] - [ DEBUG ]  Unregistering MainController
+2021-12-06 09:54:49  [ JavaFX Application Thread:16017 ] - [ DEBUG ]  Shutdown >> Start
+2021-12-06 09:54:49  [ JavaFX Application Thread:16017 ] - [ DEBUG ]  Shutdown >> End
+2021-12-06 09:54:49  [ JavaFX Application Thread:16018 ] - [ DEBUG ]  End Application...
+2021-12-06 09:55:23  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:55:23  [ main:4 ] - [ INFO ]  Init >> Start
+2021-12-06 09:55:23  [ main:4 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:55:23  [ main:84 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:55:23  [ main:100 ] - [ INFO ]  Init >> End
+2021-12-06 09:55:24  [ JavaFX Application Thread:926 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@5cc070ac, stage javafx.stage.Stage@3a40357d
+2021-12-06 09:55:24  [ JavaFX Application Thread:928 ] - [ DEBUG ]  Registering MainController
+2021-12-06 09:57:09  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:57:09  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 09:57:09  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:57:09  [ main:76 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:57:09  [ main:92 ] - [ INFO ]  Init >> End
+2021-12-06 09:57:10  [ JavaFX Application Thread:847 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@5cc070ac, stage javafx.stage.Stage@3a40357d
+2021-12-06 09:57:10  [ JavaFX Application Thread:848 ] - [ DEBUG ]  Registering MainController
+2021-12-06 09:57:15  [ JavaFX Application Thread:6406 ] - [ DEBUG ]  Shutdown >> Start
+2021-12-06 09:57:15  [ JavaFX Application Thread:6407 ] - [ DEBUG ]  Shutdown >> End
+2021-12-06 09:57:15  [ JavaFX Application Thread:6407 ] - [ DEBUG ]  End Application...
+2021-12-06 09:57:54  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:57:54  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 09:57:54  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:57:54  [ main:66 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:57:54  [ main:83 ] - [ INFO ]  Init >> End
+2021-12-06 09:57:54  [ JavaFX Application Thread:797 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@77e8700c, stage javafx.stage.Stage@4a7dbb46
+2021-12-06 09:57:54  [ JavaFX Application Thread:798 ] - [ DEBUG ]  Registering MainController com.sakurawald.ui.controller.MainController@1b7bc3a8
+2021-12-06 09:59:01  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 09:59:01  [ main:3 ] - [ INFO ]  Init >> Start
+2021-12-06 09:59:01  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 09:59:01  [ main:75 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 09:59:01  [ main:90 ] - [ INFO ]  Init >> End
+2021-12-06 09:59:02  [ JavaFX Application Thread:796 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@399ca4c9, stage javafx.stage.Stage@2d9c9fd8
+2021-12-06 09:59:02  [ JavaFX Application Thread:797 ] - [ DEBUG ]  Registering MainController com.sakurawald.ui.controller.MainController@2489cd30
+2021-12-06 09:59:18  [ JavaFX Application Thread:16722 ] - [ DEBUG ]  Shutdown >> Start
+2021-12-06 09:59:18  [ JavaFX Application Thread:16722 ] - [ DEBUG ]  Shutdown >> End
+2021-12-06 09:59:18  [ JavaFX Application Thread:16722 ] - [ DEBUG ]  End Application...
+2021-12-06 10:02:12  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 10:02:12  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 10:02:12  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 10:02:12  [ main:79 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 10:02:12  [ main:97 ] - [ INFO ]  Init >> End
+2021-12-06 10:02:13  [ JavaFX Application Thread:841 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@37183f4c, stage javafx.stage.Stage@7d7ed4db
+2021-12-06 10:02:13  [ JavaFX Application Thread:842 ] - [ DEBUG ]  Registering MainController com.sakurawald.ui.controller.MainController@c6a883e
+2021-12-06 10:02:19  [ JavaFX Application Thread:6602 ] - [ DEBUG ]  Shutdown >> Start
+2021-12-06 10:02:19  [ JavaFX Application Thread:6602 ] - [ DEBUG ]  Shutdown >> End
+2021-12-06 10:02:19  [ JavaFX Application Thread:6603 ] - [ DEBUG ]  End Application...
+2021-12-06 10:02:23  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 10:02:23  [ main:4 ] - [ INFO ]  Init >> Start
+2021-12-06 10:02:23  [ main:4 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 10:02:23  [ main:82 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 10:02:23  [ main:98 ] - [ INFO ]  Init >> End
+2021-12-06 10:02:24  [ JavaFX Application Thread:817 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@20efb386, stage javafx.stage.Stage@23a01ec3
+2021-12-06 10:02:24  [ JavaFX Application Thread:818 ] - [ DEBUG ]  Registering MainController com.sakurawald.ui.controller.MainController@7e241b64
+2021-12-06 10:03:59  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 10:03:59  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 10:03:59  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 10:03:59  [ main:75 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 10:03:59  [ main:91 ] - [ INFO ]  Init >> End
+2021-12-06 10:04:00  [ JavaFX Application Thread:822 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@3672194f, stage javafx.stage.Stage@749d6d38
+2021-12-06 10:04:00  [ JavaFX Application Thread:822 ] - [ DEBUG ]  Registering MainController com.sakurawald.ui.controller.MainController@131396db
+2021-12-06 10:04:56  [ JavaFX Application Thread:57140 ] - [ DEBUG ]  Shutdown >> Start
+2021-12-06 10:04:56  [ JavaFX Application Thread:57140 ] - [ DEBUG ]  Shutdown >> End
+2021-12-06 10:04:56  [ JavaFX Application Thread:57140 ] - [ DEBUG ]  End Application...
+2021-12-06 10:34:31  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 10:34:31  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 10:34:31  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 10:34:31  [ main:100 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 10:34:31  [ main:115 ] - [ INFO ]  Init >> End
+2021-12-06 10:34:31  [ JavaFX Application Thread:843 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@2202ee4c, stage javafx.stage.Stage@49c1a097
+2021-12-06 10:37:09  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 10:37:09  [ main:3 ] - [ INFO ]  Init >> Start
+2021-12-06 10:37:09  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 10:37:09  [ main:100 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 10:37:09  [ main:115 ] - [ INFO ]  Init >> End
+2021-12-06 10:37:10  [ JavaFX Application Thread:859 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@6e61a1b4, stage javafx.stage.Stage@1794caea
+2021-12-06 10:37:10  [ JavaFX Application Thread:860 ] - [ DEBUG ]  Registering MainController com.sakurawald.ui.controller.MainController@8ef2367
+2021-12-06 10:43:41  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 10:43:41  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 10:43:41  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 10:43:41  [ main:81 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 10:43:41  [ main:99 ] - [ INFO ]  Init >> End
+2021-12-06 10:43:42  [ JavaFX Application Thread:1204 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@8ed4f63, stage javafx.stage.Stage@700dc93a
+2021-12-06 10:43:42  [ JavaFX Application Thread:1204 ] - [ DEBUG ]  Registering MainController com.sakurawald.ui.controller.MainController@4fa640d1
+2021-12-06 10:49:06  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 10:49:06  [ main:3 ] - [ INFO ]  Init >> Start
+2021-12-06 10:49:06  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 10:49:06  [ main:74 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 10:49:06  [ main:88 ] - [ INFO ]  Init >> End
+2021-12-06 10:49:07  [ JavaFX Application Thread:1157 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@8ed4f63, stage javafx.stage.Stage@700dc93a
+2021-12-06 10:49:07  [ JavaFX Application Thread:1158 ] - [ DEBUG ]  Registering MainController com.sakurawald.ui.controller.MainController@4fa640d1
+2021-12-06 10:50:53  [ JavaFX Application Thread:107239 ] - [ DEBUG ]  Shutdown >> Start
+2021-12-06 10:50:53  [ JavaFX Application Thread:107239 ] - [ DEBUG ]  Shutdown >> End
+2021-12-06 10:50:53  [ JavaFX Application Thread:107240 ] - [ DEBUG ]  End Application...
+2021-12-06 10:57:32  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 10:57:32  [ main:3 ] - [ INFO ]  Init >> Start
+2021-12-06 10:57:32  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 10:57:32  [ main:73 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 10:57:32  [ main:90 ] - [ INFO ]  Init >> End
+2021-12-06 10:57:33  [ JavaFX Application Thread:1143 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@406fb214, stage javafx.stage.Stage@289ea3c
+2021-12-06 10:57:33  [ JavaFX Application Thread:1144 ] - [ DEBUG ]  Registering MainController com.sakurawald.ui.controller.MainController@45f2e963
+2021-12-06 10:57:43  [ JavaFX Application Thread:10526 ] - [ DEBUG ]  Shutdown >> Start
+2021-12-06 10:57:43  [ JavaFX Application Thread:10526 ] - [ DEBUG ]  Shutdown >> End
+2021-12-06 10:57:43  [ JavaFX Application Thread:10526 ] - [ DEBUG ]  End Application...
+2021-12-06 11:00:33  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 11:00:33  [ main:4 ] - [ INFO ]  Init >> Start
+2021-12-06 11:00:33  [ main:4 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 11:00:33  [ main:74 ] - [ DEBUG ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 11:00:33  [ main:90 ] - [ INFO ]  Init >> End
+2021-12-06 11:00:34  [ JavaFX Application Thread:1134 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@34fce1e8, stage javafx.stage.Stage@4d795161
+2021-12-06 11:00:34  [ JavaFX Application Thread:1135 ] - [ DEBUG ]  Registering MainController com.sakurawald.ui.controller.MainController@beed457
+2021-12-06 11:00:39  [ JavaFX Application Thread:5869 ] - [ DEBUG ]  Shutdown >> Start
+2021-12-06 11:00:39  [ JavaFX Application Thread:5869 ] - [ DEBUG ]  Shutdown >> End
+2021-12-06 11:00:39  [ JavaFX Application Thread:5869 ] - [ DEBUG ]  End Application...
+2021-12-06 11:16:53  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 11:16:53  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 11:16:53  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 11:16:53  [ main:74 ] - [ INFO ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 11:16:53  [ main:88 ] - [ INFO ]  Init >> End
+2021-12-06 11:16:54  [ JavaFX Application Thread:1115 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@421af28a, stage javafx.stage.Stage@3a6225ac
+2021-12-06 11:16:54  [ JavaFX Application Thread:1116 ] - [ DEBUG ]  Registering MainController com.sakurawald.ui.controller.MainController@686bb2a6
+2021-12-06 11:35:17  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 11:35:17  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 11:35:17  [ main:2 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 11:35:17  [ main:73 ] - [ INFO ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 11:35:17  [ main:90 ] - [ INFO ]  Init >> End
+2021-12-06 11:35:18  [ JavaFX Application Thread:1114 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@421af28a, stage javafx.stage.Stage@3a6225ac
+2021-12-06 11:35:18  [ JavaFX Application Thread:1115 ] - [ DEBUG ]  Registering MainController com.sakurawald.ui.controller.MainController@686bb2a6
+2021-12-06 11:35:46  [ JavaFX Application Thread:29134 ] - [ INFO ]  Shutdown >> Start
+2021-12-06 11:35:46  [ JavaFX Application Thread:29135 ] - [ INFO ]  Shutdown >> End
+2021-12-06 11:35:46  [ JavaFX Application Thread:29135 ] - [ INFO ]  End Application...
