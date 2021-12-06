@@ -319,3 +319,13 @@
 2021-12-06 11:35:46  [ JavaFX Application Thread:29134 ] - [ INFO ]  Shutdown >> Start
 2021-12-06 11:35:46  [ JavaFX Application Thread:29135 ] - [ INFO ]  Shutdown >> End
 2021-12-06 11:35:46  [ JavaFX Application Thread:29135 ] - [ INFO ]  End Application...
+2021-12-06 12:49:36  [ main:0 ] - [ INFO ]  Start Application...
+2021-12-06 12:49:36  [ main:2 ] - [ INFO ]  Init >> Start
+2021-12-06 12:49:36  [ main:3 ] - [ DEBUG ]  FileSystem: Init All Configs...
+2021-12-06 12:49:36  [ main:76 ] - [ INFO ]  FileSystem: Load Local File to Memory >> ApplicationConfig.json
+2021-12-06 12:49:36  [ main:94 ] - [ INFO ]  Init >> End
+2021-12-06 12:49:37  [ JavaFX Application Thread:1144 ] - [ DEBUG ]  Initializing: fxmlLoader javafx.fxml.FXMLLoader@7afbfcf, stage javafx.stage.Stage@4ce5084
+2021-12-06 12:49:37  [ JavaFX Application Thread:1145 ] - [ DEBUG ]  Registering MainController com.sakurawald.ui.controller.MainController@2a84c729
+2021-12-06 12:49:40  [ JavaFX Application Thread:4214 ] - [ INFO ]  Shutdown >> Start
+2021-12-06 12:49:40  [ JavaFX Application Thread:4214 ] - [ INFO ]  Shutdown >> End
+2021-12-06 12:49:40  [ JavaFX Application Thread:4214 ] - [ INFO ]  End Application...
